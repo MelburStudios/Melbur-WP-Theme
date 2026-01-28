@@ -3,7 +3,7 @@
 Melbur-WP Theme is an e-commerce–ready WordPress theme developed by Melbur Studios. It is built on a premium foundation and refined for performance, scalability, and clean modern design, with full WooCommerce support.<br>
 The theme is suitable for creative studios, businesses, and content-driven brands that require a flexible and reliable WordPress foundation.<br><br>
 
-✨ Features<br>
+✨ *Features*<br>
     ✅ WooCommerce-ready (e-commerce enabled)<br>
     🎨 Clean, modern, and minimal design<br>
     ⚡ Performance-focused structure<br>
@@ -13,7 +13,7 @@ The theme is suitable for creative studios, businesses, and content-driven brand
     🛠 Customizer & theme options support<br>
 <br>
 
-📦 Installation<br>
+📦 *Installation*<br>
 Option 1: WordPress Admin<br>
   •	Download the theme as a .zip file<br>
   •	Go to WordPress Admin → Appearance → Themes
@@ -27,7 +27,7 @@ Option 2: Manual<br>
 
 Activate Melbur from the WordPress dashboard<br><br>
 
-🛍 WooCommerce Support<br>
+🛍 *WooCommerce Support*<br>
 This theme is fully compatible with WooCommerce and includes:<br>
     •	Product pages<br>
     •	Shop layouts<br>
@@ -36,16 +36,16 @@ This theme is fully compatible with WooCommerce and includes:<br>
 Ensure WooCommerce is installed and activated to enable shop features.
 
 
-📄 License<br>
+📄 *License*<br>
 This project is intended for custom and portfolio use.<br>
 License terms may be updated as the project evolves.
 
-👀Repository Scope and Visibility<br>
+👀*Repository Scope and Visibility*<br>
 This repository contains selected, representative files only, provided for technical review and demonstration purposes. The complete system includes additional proprietary components and configurations that are not publicly shared, as the software remains the intellectual property of Melbur Studios and is commercially licensed to partner organisations.<br>
 
 The repository is intentionally maintained within a limited visibility window (1 January – 31 May 2026) for assessment and verification purposes. After this period, the repository may be restricted or made private to protect commercial IP.<br><br>
 
-👨‍💻 *Author & Credits*<br>
+👨‍💻 *_Author & Credits_*<br>
     🛠️ Developed at Melbur Studios<br>
     🌐 https://studios.melbur.co.ke<br>
     👤 Project Lead: Benson Muya<br>
