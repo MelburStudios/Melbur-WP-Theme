@@ -15,24 +15,24 @@ The theme is suitable for creative studios, businesses, and content-driven brand
 
 📦 Installation<br>
 Option 1: WordPress Admin<br>
-  Download the theme as a .zip file<br>
-  Go to WordPress Admin → Appearance → Themes
-  Click Add New → Upload Theme
-  Upload the ZIP file and activate
+  •	Download the theme as a .zip file<br>
+  •	Go to WordPress Admin → Appearance → Themes
+  •	Click Add New → Upload Theme
+  •	Upload the ZIP file and activate
 
 Option 2: Manual<br>
-  Extract the theme
-  Upload the folder to:
-  /wp-content/themes/melbur
+  •	Extract the theme
+  •	Upload the folder to:
+  •	/wp-content/themes/melbur
 
 Activate Melbur from the WordPress dashboard<br><br>
 
 🛍 WooCommerce Support<br>
 This theme is fully compatible with WooCommerce and includes:<br>
-    - Product pages<br>
-    - Shop layouts<br>
-    - Cart & checkout styling<br>
-    - E-commerce–ready templates<br>
+    •	Product pages<br>
+    •	Shop layouts<br>
+    •	Cart & checkout styling<br>
+    •	E-commerce–ready templates<br>
 Ensure WooCommerce is installed and activated to enable shop features.
 
 
@@ -45,7 +45,7 @@ This repository contains selected, representative files only, provided for techn
 
 The repository is intentionally maintained within a limited visibility window (1 January – 31 May 2026) for assessment and verification purposes. After this period, the repository may be restricted or made private to protect commercial IP.<br><br>
 
-👨‍💻 Author & Credits<br>
+👨‍💻 *Author & Credits*<br>
     🛠️ Developed at Melbur Studios<br>
     🌐 https://studios.melbur.co.ke<br>
     👤 Project Lead: Benson Muya<br>
