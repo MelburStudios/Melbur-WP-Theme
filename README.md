@@ -29,10 +29,10 @@ Activate Melbur from the WordPress dashboard<br><br>
 
 🛍 WooCommerce Support<br>
 This theme is fully compatible with WooCommerce and includes:<br>
-    Product pages<br>
-    Shop layouts<br>
-    Cart & checkout styling<br>
-    E-commerce–ready templates<br>
+    - Product pages<br>
+    - Shop layouts<br>
+    - Cart & checkout styling<br>
+    - E-commerce–ready templates<br>
 Ensure WooCommerce is installed and activated to enable shop features.
 
 
