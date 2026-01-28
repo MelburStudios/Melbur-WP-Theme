@@ -1,4 +1,4 @@
-# Melbur-WP Theme
+# 🌐Melbur-WP Theme
 
 Melbur-WP Theme is an e-commerce–ready WordPress theme developed by Melbur Studios. It is built on a premium foundation and refined for performance, scalability, and clean modern design, with full WooCommerce support.<br>
 The theme is suitable for creative studios, businesses, and content-driven brands that require a flexible and reliable WordPress foundation.<br><br>
