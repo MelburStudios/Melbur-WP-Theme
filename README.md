@@ -45,7 +45,8 @@ This repository contains selected, representative files only, provided for techn
 
 The repository is intentionally maintained within a limited visibility window (1 January – 31 May 2026) for assessment and verification purposes. After this period, the repository may be restricted or made private to protect commercial IP.<br><br>
 
-👨‍💻 *_Author & Credits_*<br>
+👨‍💻 *Author & Credits*<br>
+
     🛠️ Developed at Melbur Studios<br>
     🌐 https://studios.melbur.co.ke<br>
     👤 Project Lead: Benson Muya<br>
