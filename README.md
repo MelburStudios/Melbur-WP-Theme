@@ -41,10 +41,9 @@ Upload the folder to:
 
 Activate Melbur from the WordPress dashboard<br><br>
 
-🛍 WooCommerce Support
+🛍 WooCommerce Support<br>
 
-This theme is fully compatible with WooCommerce and includes:
-
+This theme is fully compatible with WooCommerce and includes:<br>
 Product pages<br>
 Shop layouts<br>
 Cart & checkout styling<br>
@@ -52,13 +51,6 @@ E-commerce–ready templates<br>
 
 Ensure WooCommerce is installed and activated to enable shop features.
 
-🌐 Customisation
-
-You can customise the theme via:
-
-Appearance → Customize<br>
-Theme options panel (where available)<br>
-Child theme (recommended for advanced changes)<br>
 
 📁 Theme Structure (Overview)
 melbur/
@@ -81,7 +73,7 @@ Developed at Melbur Studios
 Project Lead: Benson Muya
 Melbur Studios is responsible for all updates, branding work, version management, technical maintenance, and refinement of the program.
 
-Visibility Window
-This repository is publicly accessible for review between:
-01 January 2026 → 30 April 2026
-After this period, the repository may be returned to private status for intellectual property protection.
+👀Repository Scope and Visibility:
+This repository contains selected, representative files only, provided for technical review and demonstration purposes. The complete system includes additional proprietary components and configurations that are not publicly shared, as the software remains the intellectual property of Melbur Studios and is commercially licensed to partner organisations.
+
+The repository is intentionally maintained within a limited visibility window (1 January – 31 May 2026) for assessment and verification purposes. After this period, the repository may be restricted or made private to protect commercial IP.
